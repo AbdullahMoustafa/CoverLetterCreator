@@ -14,3 +14,6 @@ pip install reportlab
 Reportlab user Guide : https://www.reportlab.com/docs/reportlab-userguide.pdf                        .
 Tkinter documentation : https://docs.python.org/3/library/tk.html
 
+
+Watch how it works here:
+https://youtu.be/RKWO7KxhkEk
